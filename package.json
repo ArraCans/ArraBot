@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArraCans/ArraBot"
+    "url": "git+https://github.com/arracans/arrabot"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ArraCans/ArraBot/issues"
+    "url": "https://github.com/arracans/arrabot/issues"
   },
-  "homepage": "https://github.com/ArraCans/ArraBot#readme"
+  "homepage": "https://github.com/arracans/arrabot#readme"
 }
