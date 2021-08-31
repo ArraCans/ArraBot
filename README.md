@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/ArraCans/ArraBot
-> cd ArraBot
+> git clone https://github.com/arracans/arrabot
+> cd arrabot
 > bash install.sh
 > node index.js
 ```
@@ -52,4 +52,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Gopay : 081250998818 Arra 
